@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MiniModuleChat</string>
+    <string name="email_id">Email id</string>
+    <string name="login">Login</string>
+    <string name="mini_module_chat">Mini Module Chat</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="signin">Sign In</string>
+    <string name="already_a_member_of_mini_module_community_please_login">Already a member of Mini Module Community, Please login. .</string>
+    <string name="email_id2">Email ID</string>
+    <string name="mini_module_registration">Mini MOdule Registration</string>
+    <string name="password2">Password</string>
+    <string name="register2">Register</string>
+</resources>
